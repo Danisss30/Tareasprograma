@@ -1,3 +1,3 @@
-Proceso HelloWorld 
-	Escribir "Hello World"
+Proceso HelloWorld
+	Escribir 'Hello World'
 FinProceso
