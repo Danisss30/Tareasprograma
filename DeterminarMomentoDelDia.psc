@@ -1,4 +1,4 @@
-Algoritmo DeterminarMomentoDelDia
+Proceso DeterminarMomentoDelDia
 	Definir hora Como Entero
 	Definir momento Como Cadena
 	Escribir 'Ingrese la hora del día (entre 0 y 23): '
@@ -25,4 +25,4 @@ Algoritmo DeterminarMomentoDelDia
 		FinSi
 		Escribir 'El momento del día es: ', momento
 	FinSi
-FinAlgoritmo
+FinProceso
